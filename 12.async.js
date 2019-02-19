@@ -1,1 +1,0 @@
-webpackJsonp([12],{BU4c:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=a("Biqn"),n=a.n(c);t.default={namespace:"switchRole",state:{data:[]},effects:{},reducers:{save:function(e,t){return n()({},e,t.payload)}}}}});
